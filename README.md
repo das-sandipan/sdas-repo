@@ -1,4 +1,4 @@
 # sdas-repo
-This is specificaly for AI model development
+This is specifically for AI Model Development
 <br>
 Author - Sandipan DAS
